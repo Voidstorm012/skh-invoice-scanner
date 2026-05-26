@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local bill inbox/archive folders contain private medical documents.
+Bills/
+Scanned Bills/
+
+# Generated scanner output and temporary inspection images.
+scan_output/
+.ocr_tmp/
